@@ -14,6 +14,7 @@ Contents:
    arcitecture
    instalation-case-maximal
    instalation-case-minimal-redurdancy
+   what-is-recomended
 
 Indices and tables
 ==================
