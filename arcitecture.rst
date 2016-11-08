@@ -33,7 +33,7 @@ On this servers is executes call processing. Given type of servers contains folo
 1. whistle;
 #. ecallmgr.
 
-Whistle application is prepares call processing rules. Ecallmgr application is executes call processing rules on media servers.
+Whistle application prepares call processing rules. Ecallmgr application is executes call processing rules on media servers.
 
 Message broker
 ---------------
